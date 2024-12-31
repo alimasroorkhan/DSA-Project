@@ -1,0 +1,6 @@
+Apple
+250.765
+Microsoft
+118.765
+Amazon
+352.155
