@@ -17,7 +17,3 @@ Future plans for the application include real-time API integration for live stoc
 This project was developed in **C++** using the following:
 - Libraries: `<iostream>`, `<fstream>`, `<string>`, `<conio.h>`
 - Development Environment: GCC and compatible C++ IDEs
-
----
-
-Feel free to copy and paste this content into your README.md file. Markdown formatting ensures proper rendering on GitHub with headings, paragraphs, and code formatting. Let me know if you need additional changes!
